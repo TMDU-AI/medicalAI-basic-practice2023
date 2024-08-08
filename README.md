@@ -38,7 +38,7 @@ Links
 	•	Development of a model curriculum for mathematics, data science, and AI education in medical and dental fields (TMDU)
 	•	Japan Inter-University Consortium for Mathematics, Data Science and AI Education
 ***
-# 医療とAI・ビッグデータ入門2022
+# 医療とAI・ビッグデータ入門2023
 2023年11月から2024年2月にかけて実施した医療とAI・ビッグデータ入門の演習スライドです。
 
 本学の取り組みについて
